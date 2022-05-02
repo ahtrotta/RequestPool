@@ -8,6 +8,7 @@ RequestBin like application. Users can create ephemeral bins that collect reques
 This repository is developed for deploying to a VPS server.
 
 ## Development
+- Ensure that MongoDB and PostgreSQL are installed on your machine.
 - Clone this repository.
 - Create `.env` folder for DB connection inside `server` folder.
 - Run `npm install` from `client` and `server` folders.
